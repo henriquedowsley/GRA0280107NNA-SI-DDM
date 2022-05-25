@@ -2,6 +2,10 @@
 
 Fazem parte do desenvolvimento deste projeto os membros:
 
-* Nome Sobrenome - <email@dominio.com>
-* Nome Sobrenome - <email@dominio.com>
-* Nome Sobrenome - <email@dominio.com>
+* Henrique Dowsley - <henrique.dowsley89@hotmail.com>
+* Pedro Soares - <sooarespedro96@gmail.com>
+* Jomar Ferreira - <jomar.ferreira.amorim@gmail.com>
+* Matheus Francisco - <matheusfarias3131@gmail.com>
+* Anizio Alves - <anizioalves_18@hotmail.com>
+* Helder Henderson - <helderhenderson143@gmail.com>
+* Enricky - <email@dominio.com>
